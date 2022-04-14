@@ -27,7 +27,7 @@ for **buying the product**, you won't get much. you will get a config.json to fi
 for **buying the source**, you will get the full *source*, and you will be told how to compile, and run the bot.  
 **buying the source** will be expensive but you get freedom of whatever you wanna do with your bot.
 
-if you want the source *and* hosting from us, it'll be **$3** a month.
+if you want the source *and* hosting from us, it'll be **$2** a month.
 
 ---
 
